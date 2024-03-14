@@ -20,29 +20,35 @@ body {
     margin: 2%;
     font-size: 200%;
     font-family: serif;
+    
   }
   
   h2 {
     margin: 3% 0;
     font-size: 180%;
     font-family: serif;
+    
   }
   #Div1{
-    border: 1px solid red;
+    border: 1px solid white;
     margin: 5px;
+    box-shadow: 10px 10px 5px #aaaaaa;
   }
   #Div2{
-    border: 1px solid purple;
+    border: 1px solid white;
     margin: 5px;
     flex: 50%;
+    box-shadow: 10px 10px 5px #aaaaaa;
   }
   #Div3{
-    border: 1px solid darkorange;
+    border: 1px solid white;
     margin: 5px;
     flex: 50%;
+    box-shadow: 10px 10px 5px #aaaaaa;
   }
   #Project_Child_Div{
     display:flex;
+    box-shadow: 10px 10px 5px #aaaaaa;
   }
   
   
